@@ -7,6 +7,15 @@ title: Gyroscope sensor for raspberry pi
 
 # Gyroscope Project
 -------------
+### October 23, 2018 (planning)
+* fritzing plan
+
+### October 22, 2018 (planning)
+* soldering my sensor to the header.
+
+### October 16, 2018
+* Hand in the Pseudo code assignment.
+
 ### October 11, 2018
 * Meet up with 2 other people to with on the pseudo code 
 
