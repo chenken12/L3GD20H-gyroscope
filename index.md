@@ -7,10 +7,15 @@ title: Gyroscope sensor for raspberry pi
 
 # Gyroscope Project
 -------------
+### October 11, 2018
+* Meet up with 2 other people to with on the pseudo code 
+
 ### October 2, 2018
+* I showed proof of ordered parts.
+* Setting up Raspberry Pi.
 
 ### September 26, 2018
-* I ordered my parts on amazon and adafruit
+* I ordered my parts on amazon and adafruit, the ina219 is for another project
 
 ![Image of RaspberryPi Receipt](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/RaspberryPi3.PNG?raw=true)
 ![Image of Parts Receipt](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/parts%20list.PNG?raw=true)
