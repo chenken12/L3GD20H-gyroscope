@@ -10,11 +10,12 @@ title: Gyroscope sensor for raspberry pi
 ### October 2, 2018
 
 ### September 25, 2018
+* I submitted my [budget](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/gyroscope_budget.xlsx)
 
 ### September 18, 2018
 * Made a project schedule
 * [In mpp](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/KenHumberProject.mpp)
-* [In pdf](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/KenHumberProject.pdf?raw=true)
+* [In pdf](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/KenHumberProject.pdf)
 
 ### September 11, 2018
 * I submitted my [proposal](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/ProposalContentStudentNameRev02.xlsx).
