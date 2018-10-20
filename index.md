@@ -11,6 +11,7 @@ title: Gyroscope sensor for raspberry pi
 
 ### September 26, 2018
 * I ordered my parts on amazon and adafruit
+
 ![Image of RaspberryPi Receipt](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/RaspberryPi3.PNG?raw=true)
 ![Image of Parts Receipt](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/parts%20list.PNG?raw=true)
 
@@ -20,7 +21,7 @@ title: Gyroscope sensor for raspberry pi
 ### September 18, 2018
 * Made a project schedule
 * [In mpp](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/KenHumberProject.mpp)
-![In pdf](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/KenHumberProject.pdf?raw=true)
+* [In pdf](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/KenHumberProject.pdf)
 
 ### September 11, 2018
 * I submitted my [proposal](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/ProposalContentStudentNameRev02.xlsx).
