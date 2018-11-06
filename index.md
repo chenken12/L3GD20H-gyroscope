@@ -7,6 +7,9 @@ title: Gyroscope sensor for raspberry pi
 
 # Gyroscope Project
 -------------
+### November 5, 2018
+* soldered the pcb
+
 ### October 30, 2018
 * fritzing file
 [frizting](https://github.com/chenken12/L3GD20H-gyroscope/tree/master/L3GD20H%20-%20Frizting)
