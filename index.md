@@ -9,6 +9,7 @@ title: Gyroscope sensor for raspberry pi
 -------------
 ### November 5, 2018
 * soldered the pcb
+* comparing mpp to today im on time for my soldering but behide for my program
 
 ### October 30, 2018
 * fritzing file
