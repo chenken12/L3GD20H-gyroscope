@@ -15,7 +15,12 @@ title: Gyroscope sensor for raspberry pi
 * fritzing file
 [frizting](https://github.com/chenken12/L3GD20H-gyroscope/tree/master/L3GD20H%20-%20Frizting)
 
+<<<<<<< HEAD
 ![pcb](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png?raw=true)
+=======
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png" width="350">
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_bb.png" width="350">
+>>>>>>> parent of dfdb827... Update index.md
 
 ### October 23, 2018
 * soldered my sensor to the header.
