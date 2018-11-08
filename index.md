@@ -7,6 +7,8 @@ title: Gyroscope sensor for raspberry pi
 
 # Gyroscope Project
 -------------
+### November 13, 2018 (Week 11)
+
 ### November 6, 2018 (Week 10)
 * Comparing mpp to today im on time for my soldering.
 * Currently behide on starting my programing. Im using "i2cdetect -y 1" to see if my chip and pcb is working or not.
