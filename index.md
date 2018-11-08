@@ -21,6 +21,7 @@ title: Gyroscope sensor for raspberry pi
 [frizting](https://github.com/chenken12/L3GD20H-gyroscope/tree/master/L3GD20H%20-%20Frizting)
 
 <img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png" width="350">
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_bb.png" width="350">
 
 ### October 23, 2018
 * soldered my sensor to the header.
