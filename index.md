@@ -42,7 +42,7 @@ title: Gyroscope sensor for raspberry pi
 * I ordered my parts on amazon and adafruit, the ina219 is for another project
 
 ![Image of RaspberryPi Receipt](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/RaspberryPi3.PNG?raw=true)
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/parts%20list.PNG" width="400">
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/parts%20list.PNG" width="500">
 
 
 ### September 25, 2018
