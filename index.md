@@ -14,7 +14,7 @@ title: Gyroscope sensor for raspberry pi
 * fritzing file
 [frizting](https://github.com/chenken12/L3GD20H-gyroscope/tree/master/L3GD20H%20-%20Frizting)
 
-![pcb](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/gyro_pcb.png?raw=true)
+![pcb](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png?raw=true)
 
 ### October 23, 2018
 * soldered my sensor to the header.
@@ -33,7 +33,7 @@ title: Gyroscope sensor for raspberry pi
 * I ordered my parts on amazon and adafruit, the ina219 is for another project
 
 ![Image of RaspberryPi Receipt](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/RaspberryPi3.PNG?raw=true)
-![Image of Parts Receipt](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/parts%20list.PNG?raw=true)
+![Image of Parts Receipt](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/parts%20list.PNG?raw=true)
 
 
 ### September 25, 2018
