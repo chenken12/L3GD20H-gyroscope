@@ -23,7 +23,10 @@ title: Gyroscope sensor for raspberry pi
 <img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png" width="350"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_bb.png" width="350">
 
 ### October 23, 2018
-* soldered my sensor to the header.
+* First time soldering anything.
+* soldered my sensor to the header. Tested the sensor after soldering and it still works
+
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181108_171753.jpg" width="350">
 
 ### October 16, 2018
 * Hand in the Pseudo code assignment.
