@@ -8,19 +8,19 @@ title: Gyroscope sensor for raspberry pi
 # Gyroscope Project
 -------------
 ### November 5, 2018
-* soldered the pcb
-* comparing mpp to today im on time for my soldering but behide for my program
+* comparing mpp to today im on time for my soldering. Currently behide for my program and case enclosure is coming up
+* current im using "i2cdetect -y 1" to see if my chip and pcb is working or not
+
+* Here is image of my finished pcb with soldering
+
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173522.jpg" width="300"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173529.jpg" width="300">
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_172724.jpg" height="300">
 
 ### October 30, 2018
 * fritzing file
 [frizting](https://github.com/chenken12/L3GD20H-gyroscope/tree/master/L3GD20H%20-%20Frizting)
 
-<<<<<<< HEAD
-![pcb](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png?raw=true)
-=======
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png" width="350">
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_bb.png" width="350">
->>>>>>> parent of dfdb827... Update index.md
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png" width="350"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_bb.png" width="350">
 
 ### October 23, 2018
 * soldered my sensor to the header.
@@ -39,7 +39,7 @@ title: Gyroscope sensor for raspberry pi
 * I ordered my parts on amazon and adafruit, the ina219 is for another project
 
 ![Image of RaspberryPi Receipt](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/RaspberryPi3.PNG?raw=true)
-![Image of Parts Receipt](https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/parts%20list.PNG?raw=true)
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/parts%20list.PNG" width="400">
 
 
 ### September 25, 2018
