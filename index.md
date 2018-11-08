@@ -8,14 +8,11 @@ title: Gyroscope sensor for raspberry pi
 # Gyroscope Project
 -------------
 ### November 5, 2018
-* soldered the pcb
 * comparing mpp to today im on time for my soldering but behide for my program
 * current im using "i2cdetect -y 1" to see if my chip is working or not
 
 * Here is image of my finished pcb with soldering
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_172724.jpg" width="350">
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173522.jpg" width="350">
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173529.jpg" width="350">
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_172724.jpg" width="350"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173522.jpg" width="350"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173529.jpg" width="350">
 
 ### October 30, 2018
 * fritzing file
