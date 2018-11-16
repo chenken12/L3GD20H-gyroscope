@@ -8,16 +8,17 @@ title: Gyroscope sensor for raspberry pi
 # Gyroscope Project
 -------------
 ### November 15, 2018
-* my header for my pcb finally came it. it was a later since my soldering goal was due 2 weeks ago but i may have some uses for the headers in the future
+* my header for my pcb finally came it after a ordering it on Nov 2, 2018 . it was a later since my soldering goal was due 2 weeks ago but i may have some uses for the headers in the future
 
 ### November 13, 2018 (Week 11)
 * Got a proto-type code working on the my raspberry pi. Planning on refining the code later on
-* Started to build my enclosure on coraldraw, planning the print it out on this friday
+* Started to build my enclosure on coraldraw, planning the print it out on this friday to see if it fits.
 
 ### November 6, 2018 (Week 10)
-* Comparing mpp to today im on time for my soldering.
+* Comparing mpp to today im on time for my soldering. The header did not come on time lucky the proto-type lab have some header i could use
 * Currently behide on starting my programing. Im using "i2cdetect -y 1" to see if my chip and pcb is working or not.
 * On the mpp my case enclosure is coming up
+* Need to buy a few header pins for my pcb, updating that to my day later. The header itself only cost $1 and $12 for shipping but im splitting the shipping cost with a friend
 
 * Here is image of my finished pcb with soldering
 
