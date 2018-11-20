@@ -9,8 +9,9 @@ title: Gyroscope sensor for raspberry pi
 -------------
 ### November 16, 2018
 * got my case enclosure laser cutted out today in the proto-type lab, it fit all my parts in fine
+* here is the [coraldraw file](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/Pi2CaseX6%20-%20Kenneth%20x16.cdr)
 
-<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181118_235344.jpg" width="300"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181118_235404.jpg" width="300">
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181118_235344.jpg" width="280"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181118_235404.jpg" width="280"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/Pi3CaseX6.png" width="280">
 
 ### November 15, 2018
 * my header for my pcb finally came it after a ordering it on Nov 2, 2018 . it was a later since my soldering goal was due 2 weeks ago but i may have some uses for the headers in the future
