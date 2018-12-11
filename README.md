@@ -56,6 +56,7 @@ Dowload these 3 items to setup your raspberry [image](https://github.com/six0fou
 * 7-pin socket 
 
 This is the spots where I soldered the pin to
+
 <img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173529.jpg" width="300"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173522.jpg" width="300">
 
 ### Power Up
@@ -65,8 +66,12 @@ This is the spots where I soldered the pin to
 sudo i2cdetect -y 1
 ```
 This will display an output of the sensor's address - 0x6B
+
 <img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181024_004159.jpg" width="300">
 
-3. 
+3. To test if your sensor can read data, python code [here](https://github.com/chenken12/L3GD20H-gyroscope/blob/master/gyro.py). Run theis program in the terminal
+```
+python gyro.py
+```
 
 ### Unit and Production Testing
