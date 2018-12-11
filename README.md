@@ -80,7 +80,7 @@ Here is a sample output:
 ### Schedule
 How long does it that to build?
 Download all the software can take between 30min to 2 hour
-* Download the software beforehand to save you sometime
+* Note download the software beforehand to save you sometime
 
 Loading image to sd card and setup the pi take up to 1 to 1.5 hour <br>
 Soldering can be as fast as 30 min to 1 hour <br>
