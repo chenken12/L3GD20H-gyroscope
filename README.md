@@ -30,9 +30,43 @@ Equipments
 * Anti-Static Wrist Strap
 
 ### Raspberry Pi Configuration
+Dowload these 3 items to setup your raspberry [image](https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md):
+* https://www.sdcard.org/downloads/formatter_4/index.html
+* http://downloads.raspberrypi.org/raspbian/images/raspbian-2018-06-29/2018-06-27-raspbian-stretch.zip
+* http://www.alanlay.com/blog/2014/6/8/raspberry-pi
 
 ### Mechanical Assembly and Soldering
+1. Break the break_away pin into 9 pin set. Then start by soldering the sensor to the pins of the header. The 4 main pin that needs to be solder is the Vin, GND, SCL, SDA
+
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181108_171753.jpg" width="300">
+
+2. This is the design for my [PCB](https://github.com/chenken12/L3GD20H-gyroscope/tree/master/L3GD20H%20-%20Frizting) using [Fritzing software](http://fritzing.org/download/) 
+
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_pcb.png" width="300"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_schem.png" width="300">
+
+##### Pins used
+* Vin - power pin
+* GND - ground
+* SCL - i2c pin
+* SDA - i2c pin
+
+3. Now solder the PCB the following:
+* Via (need a  wire to pass though the hole)
+* 20x2 - pin socket
+* 7-pin socket 
+
+This is the spots where I soldered the pin to
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173529.jpg" width="300"><img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181106_173522.jpg" width="300">
 
 ### Power Up
+1. power up your pi to see if the raspberry load, if not redo the [Raspberry Pi Configuration](#raspberry-pi-configuration)
+2. open the terminal and detecting the sensor with this command
+```
+sudo i2cdetect -y 1
+```
+This will display an output of the sensor's address - 0x6B
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181024_004159.jpg" width="300">
+
+3. 
 
 ### Unit and Production Testing
