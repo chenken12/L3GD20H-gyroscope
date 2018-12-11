@@ -6,7 +6,7 @@
 3. [Raspberry Pi Configuration](#raspberry-pi-configuration)
 4. [Mechanical Assembly and Soldering](#mechanical-assembly-and-soldering)
 5. [Power Up](#power-up)
-6. [Unit and Production Testing](#unit-and-production-testing)
+6. [Schedule](#schedule)
 
 ### Introduction
 gyroscope is a type of sensor that can sense twisting and turning motions. The gyposcope is a triple axis gyro.  The board can change  the sense see it can be more easy for process, scale from 250, 500 or 2000. Gyroscope catch motion if it get moved around and the user can tell how is it moving. The chip uses 3.3v max, it is mainly use with Arduino boards but it can be use on the raspberry pi first.
@@ -73,5 +73,14 @@ This will display an output of the sensor's address - 0x6B
 ```
 python gyro.py
 ```
+Here is a sample output:
 
-### Unit and Production Testing
+<img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/gyro_xyz_data.png" width="300">
+
+### Schedule
+How long does it that to build?
+Download all the software can take between 30min to 2 hour
+* Download the software beforehand to save you sometime
+Loading image to sd card and setup the pi take up to 1 to 1.5 hour
+Soldering can be as fast as 30 min to 1 hour
+Other is waiting on the parts to come.
