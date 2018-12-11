@@ -10,6 +10,7 @@
 
 ### Introduction
 gyroscope is a type of sensor that can sense twisting and turning motions. The gyposcope is a triple axis gyro.  The board can change  the sense see it can be more easy for process, scale from 250, 500 or 2000. Gyroscope catch motion if it get moved around and the user can tell how is it moving. The chip uses 3.3v max, it is mainly use with Arduino boards but it can be use on the raspberry pi first.
+
 <img src="https://raw.githubusercontent.com/chenken12/L3GD20H-gyroscope/master/images/IMG_20181118_235344.jpg" width="300">
 
 ### Materials/Budget
